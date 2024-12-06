@@ -1,0 +1,5 @@
+outs:
+- md5: 4844be486b099058fda0c7340a470fcc
+  size: 157
+  hash: md5
+  path: svm.json
