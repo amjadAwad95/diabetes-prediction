@@ -1,5 +1,5 @@
 outs:
-- md5: a3ca095dcb449314e1ac21a8c3237c79
+- md5: 73dc83c162e7b7a4e6b9737fa82bc5c1
   size: 158
   hash: md5
   path: logistic_regression.json
