@@ -1,2 +1,4 @@
 /logistic_regression.pkl
 /svm.pkl
+/decision_tree.pkl
+/random_forest.pkl
