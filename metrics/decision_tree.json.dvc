@@ -1,5 +1,5 @@
 outs:
-- md5: 0d852277857750c4d5c235560f1bae58
-  size: 157
+- md5: af8fee4e0b53c0562f4835dd8f89995c
+  size: 156
   hash: md5
   path: decision_tree.json
