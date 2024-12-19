@@ -1,5 +1,5 @@
 outs:
-- md5: 0fad9c2281074ff63c09b2e11b3bf3f8
+- md5: 48beb7a65023eecbb4e2913cd8795460
   size: 158
   hash: md5
   path: random_forest.json
