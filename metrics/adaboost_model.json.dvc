@@ -1,0 +1,5 @@
+outs:
+- md5: 7692f61e1efa532f4784a05ca99900d4
+  size: 158
+  hash: md5
+  path: adaboost_model.json
