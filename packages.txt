@@ -1,1 +1,1 @@
-pip install pandas numpy scikit-learn matplotlib dvc dvc_s3
+pip install pandas numpy scikit-learn matplotlib dvc dvc_s3 flask flask_cors
